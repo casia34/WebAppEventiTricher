@@ -1,0 +1,11 @@
+D:\ActivitisReact\Domani\bin\Debug\net10.0\Domani.deps.json
+D:\ActivitisReact\Domani\bin\Debug\net10.0\Domani.dll
+D:\ActivitisReact\Domani\bin\Debug\net10.0\Domani.pdb
+D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.GeneratedMSBuildEditorConfig.editorconfig
+D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.AssemblyInfoInputs.cache
+D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.AssemblyInfo.cs
+D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.csproj.CoreCompileInputs.cache
+D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.dll
+D:\ActivitisReact\Domani\obj\Debug\net10.0\refint\Domani.dll
+D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.pdb
+D:\ActivitisReact\Domani\obj\Debug\net10.0\ref\Domani.dll
