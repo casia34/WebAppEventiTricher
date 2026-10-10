@@ -9,3 +9,15 @@ D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.dll
 D:\ActivitisReact\Domani\obj\Debug\net10.0\refint\Domani.dll
 D:\ActivitisReact\Domani\obj\Debug\net10.0\Domani.pdb
 D:\ActivitisReact\Domani\obj\Debug\net10.0\ref\Domani.dll
+D:\ActivitisReact\WebAppEventiTricher\Domani\bin\Debug\net10.0\Domani.deps.json
+D:\ActivitisReact\WebAppEventiTricher\Domani\bin\Debug\net10.0\Domani.dll
+D:\ActivitisReact\WebAppEventiTricher\Domani\bin\Debug\net10.0\Domani.pdb
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.GeneratedMSBuildEditorConfig.editorconfig
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.AssemblyInfoInputs.cache
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.AssemblyInfo.cs
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.csproj.CoreCompileInputs.cache
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.sourcelink.json
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.dll
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\refint\Domani.dll
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\Domani.pdb
+D:\ActivitisReact\WebAppEventiTricher\Domani\obj\Debug\net10.0\ref\Domani.dll

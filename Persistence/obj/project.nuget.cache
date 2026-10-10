@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "guLHz1y6fg8=",
+  "dgSpecHash": "Uao5rVj0lzE=",
   "success": true,
-  "projectFilePath": "D:\\ActivitisReact\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leoci\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.4\\microsoft.data.sqlite.core.10.0.4.nupkg.sha512",
     "C:\\Users\\leoci\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.4\\microsoft.entityframeworkcore.10.0.4.nupkg.sha512",
@@ -30,10 +30,10 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
-      "projectPath": "D:\\ActivitisReact\\Persistence\\Persistence.csproj",
+      "message": "Il pacchetto 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 presenta una vulnerabilità nota di gravità alta, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\ActivitisReact\\Persistence\\Persistence.csproj",
+      "filePath": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj",
       "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
       "targetGraphs": [
         "net10.0"

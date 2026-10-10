@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ActivitisReact\\Persistence\\Persistence.csproj": {}
+    "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "D:\\ActivitisReact\\Domani\\Domani.csproj": {
+    "D:\\ActivitisReact\\WebAppEventiTricher\\Domani\\Domani.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ActivitisReact\\Domani\\Domani.csproj",
+        "projectUniqueName": "D:\\ActivitisReact\\WebAppEventiTricher\\Domani\\Domani.csproj",
         "projectName": "Domani",
-        "projectPath": "D:\\ActivitisReact\\Domani\\Domani.csproj",
+        "projectPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Domani\\Domani.csproj",
         "packagesPath": "C:\\Users\\leoci\\.nuget\\packages\\",
-        "outputPath": "D:\\ActivitisReact\\Domani\\obj\\",
+        "outputPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Domani\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -346,14 +346,14 @@
         }
       }
     },
-    "D:\\ActivitisReact\\Persistence\\Persistence.csproj": {
+    "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ActivitisReact\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\ActivitisReact\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\leoci\\.nuget\\packages\\",
-        "outputPath": "D:\\ActivitisReact\\Persistence\\obj\\",
+        "outputPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -376,8 +376,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\ActivitisReact\\Domani\\Domani.csproj": {
-                "projectPath": "D:\\ActivitisReact\\Domani\\Domani.csproj"
+              "D:\\ActivitisReact\\WebAppEventiTricher\\Domani\\Domani.csproj": {
+                "projectPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Domani\\Domani.csproj"
               }
             }
           }
@@ -420,7 +420,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

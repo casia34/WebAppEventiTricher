@@ -2442,11 +2442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ActivitisReact\\API\\API.csproj",
+      "projectUniqueName": "D:\\ActivitisReact\\WebAppEventiTricher\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\ActivitisReact\\API\\API.csproj",
+      "projectPath": "D:\\ActivitisReact\\WebAppEventiTricher\\API\\API.csproj",
       "packagesPath": "C:\\Users\\leoci\\.nuget\\packages\\",
-      "outputPath": "D:\\ActivitisReact\\API\\obj\\",
+      "outputPath": "D:\\ActivitisReact\\WebAppEventiTricher\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2469,8 +2469,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\ActivitisReact\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\ActivitisReact\\Persistence\\Persistence.csproj"
+            "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\ActivitisReact\\WebAppEventiTricher\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -2516,7 +2516,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -2939,7 +2939,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 has a known high severity vulnerability, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "message": "Il pacchetto 'SQLitePCLRaw.lib.e_sqlite3' 2.1.11 presenta una vulnerabilità nota di gravità alta, https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
       "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
       "targetGraphs": [
         "net10.0"
